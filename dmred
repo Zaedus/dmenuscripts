@@ -10,9 +10,9 @@
 # An array of subreddits to choose.
 declare -a subreddit_list=(
 "r/archlinux"
+"r/gnome"
 "r/bash"
 "r/commandline"
-"r/emacs"
 "r/freesoftware"
 "r/linux"
 "r/linux4noobs"
@@ -21,7 +21,6 @@ declare -a subreddit_list=(
 "r/suckless"
 "r/Ubuntu"
 "r/unixporn"
-"r/vim"
 "Quit"
 )
 # Picking a subreddit from the above subreddit_list.
